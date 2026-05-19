@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import ScreenContainer from '../components/ScreenContainer';
 import InfoCard from '../components/InfoCard';
+import CustomButton from '../components/CustomButton';
 import { ChecklistItem } from '../types';
 
 /**
